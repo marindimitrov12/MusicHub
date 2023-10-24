@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+77Uh9zGmPfl8AVaXpnuhiFn0aCzEf89kFqzyMsWateiigMvtNA3BVzomKZefNQFWUNYaMj4csCUYgFRsDlsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
