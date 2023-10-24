@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5CYamK97Uekt1W9beMuMJnTrJRwEM5kpFbJmo5KPaL8DkXOJk28Vvuu6NrXxjoo08XGAXqt6aDk2BRkBvQJSQ==",
+  "dgSpecHash": "eouHN87iyjzX5ltSuJIe0ygUTZlT6v8VljEBZHFJJwMuxa1+NuYMSkrXLfl+00n/T+4qR6NpPGMG+k9RNxb3KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

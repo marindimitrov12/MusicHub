@@ -7260,11 +7260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
       "projectName": "BookShop.Initializer",
-      "projectPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
+      "projectPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\BookShop.Initializer.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Initializer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7281,11 +7281,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj": {
-              "projectPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj"
+            "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj"
             },
-            "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj": {
-              "projectPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj"
+            "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj"
             }
           }
         }

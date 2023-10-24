@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5+77Uh9zGmPfl8AVaXpnuhiFn0aCzEf89kFqzyMsWateiigMvtNA3BVzomKZefNQFWUNYaMj4csCUYgFRsDlsA==",
+  "dgSpecHash": "enGF777zobSNDYeeTkX23w/6Oe7YngYVmkqIgo+O+uLzUiU04kIW9zYYpNeyDdpA/ej4vCdYfFD1N6opdjwv6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

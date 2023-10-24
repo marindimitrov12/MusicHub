@@ -7241,11 +7241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj",
       "projectName": "BookShop.Data",
-      "projectPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj",
+      "projectPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Data\\BookShop.Data.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Data\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7262,8 +7262,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj": {
-              "projectPath": "C:\\Users\\Owner\\Downloads\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj"
+            "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Source\\Repos\\MusicHub\\06. Advanced-Querying-BookShop\\BookShop.Models\\BookShop.Models.csproj"
             }
           }
         }
